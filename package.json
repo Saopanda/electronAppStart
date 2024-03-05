@@ -1,0 +1,23 @@
+{
+  "name": "electron-app-start",
+  "version": "1.0.0",
+  "description": "zero to start",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saopanda/electronAppStart.git"
+  },
+  "author": "saopanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saopanda/electronAppStart/issues"
+  },
+  "homepage": "https://github.com/Saopanda/electronAppStart#readme",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  }
+}
